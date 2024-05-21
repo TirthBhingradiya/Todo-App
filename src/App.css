@@ -17,7 +17,7 @@ body{
     width:350px;
 }
 .app-heading{
-    padding: 4px;
+    padding: 5px;
     color: white;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-transform: uppercase;
@@ -31,7 +31,7 @@ body{
 .input-box-todo{
     margin-left: 9px;
     width:70%;
-    height:40px;
+    height:50px;
     border-radius: 14px;
     border:1px solid black;
     padding-left: 10px;
